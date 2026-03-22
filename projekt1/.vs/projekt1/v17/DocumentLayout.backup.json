@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rober\\source\\repos\\projekt1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99A6B25A-D027-490C-AB44-E0F12C800CAC}|TestMacierzy\\TestMacierzy.vcxproj|C:\\Users\\rober\\source\\repos\\projekt1\\TestMacierzy\\TestMacierzy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{99A6B25A-D027-490C-AB44-E0F12C800CAC}|TestMacierzy\\TestMacierzy.vcxproj|solutionrelative:TestMacierzy\\TestMacierzy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA0DFAFF-6DC1-4632-B96E-0F0B96F6599C}|projekt1\\projekt1.vcxproj|C:\\Users\\rober\\source\\repos\\projekt1\\projekt1\\projekt1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA0DFAFF-6DC1-4632-B96E-0F0B96F6599C}|projekt1\\projekt1.vcxproj|solutionrelative:projekt1\\projekt1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA0DFAFF-6DC1-4632-B96E-0F0B96F6599C}|projekt1\\projekt1.vcxproj|C:\\Users\\rober\\source\\repos\\projekt1\\projekt1\\macierz.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA0DFAFF-6DC1-4632-B96E-0F0B96F6599C}|projekt1\\projekt1.vcxproj|solutionrelative:projekt1\\macierz.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 304,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "projekt1.cpp",
+              "DocumentMoniker": "C:\\Users\\rober\\source\\repos\\projekt1\\projekt1\\projekt1.cpp",
+              "RelativeDocumentMoniker": "projekt1\\projekt1.cpp",
+              "ToolTip": "C:\\Users\\rober\\source\\repos\\projekt1\\projekt1\\projekt1.cpp",
+              "RelativeToolTip": "projekt1\\projekt1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-05T07:31:27.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "macierz.cpp",
+              "DocumentMoniker": "C:\\Users\\rober\\source\\repos\\projekt1\\projekt1\\macierz.cpp",
+              "RelativeDocumentMoniker": "projekt1\\macierz.cpp",
+              "ToolTip": "C:\\Users\\rober\\source\\repos\\projekt1\\projekt1\\macierz.cpp",
+              "RelativeToolTip": "projekt1\\macierz.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-05T07:31:26.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestMacierzy.cpp",
+              "DocumentMoniker": "C:\\Users\\rober\\source\\repos\\projekt1\\TestMacierzy\\TestMacierzy.cpp",
+              "RelativeDocumentMoniker": "TestMacierzy\\TestMacierzy.cpp",
+              "ToolTip": "C:\\Users\\rober\\source\\repos\\projekt1\\TestMacierzy\\TestMacierzy.cpp",
+              "RelativeToolTip": "TestMacierzy\\TestMacierzy.cpp",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAAwNYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-05T07:31:21.1Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
