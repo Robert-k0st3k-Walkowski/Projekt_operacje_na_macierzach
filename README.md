@@ -1,6 +1,6 @@
 # PROJEKT - OPERACJE NA MACIERZACH ⏹️
 
-To repozytirum zawiera prosty projekt wykonany przeze mnie na zajęcia: "Programowanie Obiektowe 1", który realizuje kilka podstawowych operacji na macierzach (tj. dodawanie, odejmowanie, mnożenie czy liczenie śladu macierzy). Projekt ten został napisany w C++.
+To repozytirum zawiera prosty projekt, który realizuje kilka podstawowych operacji na macierzach (tj. dodawanie, odejmowanie, mnożenie czy liczenie śladu macierzy). Projekt ten został napisany w C++.
 
 <br> Poza głównym projektem rozdzielonym na kilka plików, w rozwiązaniu znajduje się również projekt odpowiadający za wykonywanie przykładowych testów jednostkowych dla wspomnianego języka C++. 📝
 
